@@ -8,6 +8,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+![ESP32-S3 with SSD1306 OLED displaying the channel congestion bar chart](hardware_photo.jpg)
+
 Enterprise site survey tools like Ekahau and AirMagnet charge thousands of dollars for software licenses. The core analysis they perform — scanning the RF environment, counting networks per channel, and recommending the least-congested frequency — is fundamentally straightforward. So I built a version that runs on a \$15 ESP32-S3 dev board, displays results on a tiny OLED, and demonstrates the same wireless domain knowledge in roughly 400 lines of C++.
 
 This post walks through the architecture, the interesting implementation details, and what I learned building firmware that bridges wireless engineering theory with embedded systems practice.
