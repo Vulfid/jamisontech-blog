@@ -8,7 +8,7 @@ ShowReadingTime: false
 
 ## Who I Am
 
-I'm a firmware and wireless engineer with deep roots in 802.11. I hold CWNE #551 — one of roughly 500 active Certified Wireless Network Experts worldwide — and have spent my career at the intersection of Wi-Fi hardware and the software that drives it.
+I'm a firmware and wireless engineer with deep roots in 802.11. I hold CWNE #570 — one of roughly 500 active Certified Wireless Network Experts worldwide — and have spent my career at the intersection of Wi-Fi hardware and the software that drives it.
 
 My professional background spans Wi-Fi 6/6E/7 firmware validation at Cisco Meraki, automated RF test infrastructure, and hands-on debugging in shielded chambers with spectrum analyzers and protocol captures. I've validated access point firmware across multiple chipset platforms and built test suites that catch regressions before they ship.
 
@@ -24,7 +24,7 @@ I'm focused on embedded firmware development in C++ — writing the code that ru
 - **Platforms:** ESP32-S3, ARM Cortex-M, PlatformIO, Arduino framework
 - **Wireless:** 802.11ax/be (Wi-Fi 6/7), RF analysis, channel planning, roaming (802.11r/k/v)
 - **Tools:** PlatformIO, Wireshark, Ekahau, shielded chamber environments
-- **Certifications:** CWNE #551, CWDP, CWAP, CWSP, CWNA
+- **Certifications:** CWNE #570, CWDP, CWAP, CWSP, CWNA
 
 ## Connect
 

@@ -33,7 +33,7 @@ params:
   homeInfoParams:
     Title: "Hunter R. Jamison"
     Content: >
-      Firmware & wireless engineer. CWNE #551. Building embedded systems in C++
+      Firmware & wireless engineer. CWNE #570. Building embedded systems in C++
       and writing about 802.11, channel analysis, and the firmware that drives it all.
 
   socialIcons:
