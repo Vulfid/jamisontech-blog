@@ -1,0 +1,50 @@
+:root {
+    --accent: #4a90a4;
+    --accent-dark: #6bb8d0;
+}
+
+.dark {
+    --accent: #6bb8d0;
+    --accent-dark: #4a90a4;
+}
+
+a {
+    color: var(--accent);
+}
+
+.dark a {
+    color: var(--accent-dark);
+}
+
+.post-content pre {
+    border-radius: 6px;
+    font-size: 0.88em;
+    line-height: 1.55;
+}
+
+.post-content code:not(pre > code) {
+    font-size: 0.88em;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.post-content h2 {
+    margin-top: 2.2em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid var(--border);
+}
+
+.home-info .entry-content {
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 1.05em;
+    line-height: 1.7;
+}
+
+.social-icons a {
+    transition: transform 0.15s ease;
+}
+
+.social-icons a:hover {
+    transform: scale(1.15);
+}
